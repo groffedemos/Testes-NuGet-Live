@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>Groffe.Alturas</PackageId>
+    <PackageId>Groffe.Live.Alturas</PackageId>
     <Version>1.0.0</Version>
     <Authors>Renato Groffe</Authors>
     <Company>Groffe</Company>
